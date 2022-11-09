@@ -17,4 +17,4 @@
 
 管理者権限で登録したユーザでログイン
 
-![a](.path/to/image.png)
+![a](./path/to/image.png)
